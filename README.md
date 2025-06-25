@@ -20,7 +20,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **Hosted Frontend**: [Study Notion App](https://studynotionfrontend-ecru.vercel.app/)
+🔗 **Hosted Frontend**: [Study Notion App](https://skillharbor.vercel.app/)
 
 ---
 
